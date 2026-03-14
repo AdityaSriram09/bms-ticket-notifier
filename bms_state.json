@@ -112,6 +112,54 @@
       "price": "59.43",
       "status": "3"
     },
+    "PVES|26873|20260321|ELITE": {
+      "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
+      "time": "10:00 AM",
+      "date": "20260321",
+      "cat": "ELITE",
+      "price": "202.49",
+      "status": "3"
+    },
+    "PVES|26873|20260321|BUDGET": {
+      "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
+      "time": "10:00 AM",
+      "date": "20260321",
+      "cat": "BUDGET",
+      "price": "59.43",
+      "status": "3"
+    },
+    "PVES|26874|20260321|ELITE": {
+      "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
+      "time": "06:00 PM",
+      "date": "20260321",
+      "cat": "ELITE",
+      "price": "202.49",
+      "status": "3"
+    },
+    "PVES|26874|20260321|BUDGET": {
+      "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
+      "time": "06:00 PM",
+      "date": "20260321",
+      "cat": "BUDGET",
+      "price": "59.43",
+      "status": "3"
+    },
+    "PVES|26875|20260321|ELITE": {
+      "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
+      "time": "10:50 PM",
+      "date": "20260321",
+      "cat": "ELITE",
+      "price": "202.49",
+      "status": "3"
+    },
+    "PVES|26875|20260321|BUDGET": {
+      "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
+      "time": "10:50 PM",
+      "date": "20260321",
+      "cat": "BUDGET",
+      "price": "59.43",
+      "status": "3"
+    },
     "PVPZ|29996|20260321|ELITE": {
       "venue": "PVR: Palazzo,The Nexus Vijaya Mall",
       "time": "10:15 AM",
@@ -250,6 +298,38 @@
     },
     "PGRA|18123|20260321|CLASSIC": {
       "venue": "PVR: Grand Galada, Pallavaram",
+      "time": "10:35 PM",
+      "date": "20260321",
+      "cat": "CLASSIC",
+      "price": "59.43",
+      "status": "0"
+    },
+    "PSKL|18739|20260321|PRIME": {
+      "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
+      "time": "06:00 PM",
+      "date": "20260321",
+      "cat": "PRIME",
+      "price": "202.49",
+      "status": "3"
+    },
+    "PSKL|18739|20260321|CLASSIC": {
+      "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
+      "time": "06:00 PM",
+      "date": "20260321",
+      "cat": "CLASSIC",
+      "price": "59.43",
+      "status": "0"
+    },
+    "PSKL|18740|20260321|PRIME": {
+      "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
+      "time": "10:35 PM",
+      "date": "20260321",
+      "cat": "PRIME",
+      "price": "202.49",
+      "status": "3"
+    },
+    "PSKL|18740|20260321|CLASSIC": {
+      "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
       "time": "10:35 PM",
       "date": "20260321",
       "cat": "CLASSIC",
