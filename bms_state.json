@@ -64,6 +64,22 @@
       "price": "59.43",
       "status": "3"
     },
+    "PVES|26879|20260321|ELITE": {
+      "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
+      "time": "01:30 PM",
+      "date": "20260321",
+      "cat": "ELITE",
+      "price": "202.49",
+      "status": "0"
+    },
+    "PVES|26879|20260321|BUDGET": {
+      "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
+      "time": "01:30 PM",
+      "date": "20260321",
+      "cat": "BUDGET",
+      "price": "59.43",
+      "status": "0"
+    },
     "PVES|26874|20260321|ELITE": {
       "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
       "time": "06:00 PM",
@@ -95,6 +111,22 @@
       "cat": "BUDGET",
       "price": "59.43",
       "status": "2"
+    },
+    "PVES|26880|20260321|ELITE": {
+      "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
+      "time": "11:05 PM",
+      "date": "20260321",
+      "cat": "ELITE",
+      "price": "202.49",
+      "status": "2"
+    },
+    "PVES|26880|20260321|BUDGET": {
+      "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
+      "time": "11:05 PM",
+      "date": "20260321",
+      "cat": "BUDGET",
+      "price": "59.43",
+      "status": "3"
     },
     "PGRA|18121|20260321|PRIME": {
       "venue": "PVR: Grand Galada, Pallavaram",
@@ -182,7 +214,7 @@
       "date": "20260321",
       "cat": "ELITE",
       "price": "202.49",
-      "status": "3"
+      "status": "2"
     },
     "PVPZ|29991|20260321|BUDGET": {
       "venue": "PVR: Palazzo,The Nexus Vijaya Mall",
@@ -198,7 +230,7 @@
       "date": "20260321",
       "cat": "ELITE",
       "price": "202.49",
-      "status": "3"
+      "status": "2"
     },
     "PVPZ|29998|20260321|BUDGET": {
       "venue": "PVR: Palazzo,The Nexus Vijaya Mall",
@@ -272,6 +304,118 @@
       "price": "59.43",
       "status": "3"
     },
+    "INTO|82923|20260321|CLUB": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "09:00 AM",
+      "date": "20260321",
+      "cat": "CLUB",
+      "price": "202.49",
+      "status": "3"
+    },
+    "INTO|82923|20260321|EXECUTIVE": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "09:00 AM",
+      "date": "20260321",
+      "cat": "EXECUTIVE",
+      "price": "59.43",
+      "status": "3"
+    },
+    "INTO|82929|20260321|CLUB": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "02:00 PM",
+      "date": "20260321",
+      "cat": "CLUB",
+      "price": "202.49",
+      "status": "3"
+    },
+    "INTO|82929|20260321|EXECUTIVE": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "02:00 PM",
+      "date": "20260321",
+      "cat": "EXECUTIVE",
+      "price": "59.43",
+      "status": "3"
+    },
+    "INTO|82924|20260321|CLUB": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "05:15 PM",
+      "date": "20260321",
+      "cat": "CLUB",
+      "price": "202.49",
+      "status": "3"
+    },
+    "INTO|82924|20260321|EXECUTIVE": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "05:15 PM",
+      "date": "20260321",
+      "cat": "EXECUTIVE",
+      "price": "59.43",
+      "status": "3"
+    },
+    "INTO|82925|20260321|CLUB": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "10:05 PM",
+      "date": "20260321",
+      "cat": "CLUB",
+      "price": "202.49",
+      "status": "3"
+    },
+    "INTO|82925|20260321|EXECUTIVE": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "10:05 PM",
+      "date": "20260321",
+      "cat": "EXECUTIVE",
+      "price": "59.43",
+      "status": "3"
+    },
+    "INPR|57936|20260321|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "09:00 AM",
+      "date": "20260321",
+      "cat": "ELITE",
+      "price": "202.49",
+      "status": "3"
+    },
+    "INPR|57936|20260321|BUDGET": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "09:00 AM",
+      "date": "20260321",
+      "cat": "BUDGET",
+      "price": "59.43",
+      "status": "3"
+    },
+    "INPR|57937|20260321|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "05:00 PM",
+      "date": "20260321",
+      "cat": "ELITE",
+      "price": "202.49",
+      "status": "2"
+    },
+    "INPR|57937|20260321|BUDGET": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "05:00 PM",
+      "date": "20260321",
+      "cat": "BUDGET",
+      "price": "59.43",
+      "status": "3"
+    },
+    "INPR|57938|20260321|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "09:50 PM",
+      "date": "20260321",
+      "cat": "ELITE",
+      "price": "202.49",
+      "status": "2"
+    },
+    "INPR|57938|20260321|BUDGET": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "09:50 PM",
+      "date": "20260321",
+      "cat": "BUDGET",
+      "price": "59.43",
+      "status": "3"
+    },
     "PSKL|18739|20260321|PRIME": {
       "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
       "time": "06:00 PM",
@@ -304,6 +448,70 @@
       "price": "59.43",
       "status": "0"
     },
+    "FMCN|100314|20260321|SILVER": {
+      "venue": "INOX National: Arcot Road",
+      "time": "10:25 AM",
+      "date": "20260321",
+      "cat": "SILVER",
+      "price": "202.49",
+      "status": "3"
+    },
+    "FMCN|100314|20260321|PREMIERE": {
+      "venue": "INOX National: Arcot Road",
+      "time": "10:25 AM",
+      "date": "20260321",
+      "cat": "PREMIERE",
+      "price": "59.43",
+      "status": "0"
+    },
+    "FMCN|100315|20260321|SILVER": {
+      "venue": "INOX National: Arcot Road",
+      "time": "03:10 PM",
+      "date": "20260321",
+      "cat": "SILVER",
+      "price": "202.49",
+      "status": "3"
+    },
+    "FMCN|100315|20260321|PREMIERE": {
+      "venue": "INOX National: Arcot Road",
+      "time": "03:10 PM",
+      "date": "20260321",
+      "cat": "PREMIERE",
+      "price": "59.43",
+      "status": "0"
+    },
+    "FMCN|100328|20260321|SILVER": {
+      "venue": "INOX National: Arcot Road",
+      "time": "06:00 PM",
+      "date": "20260321",
+      "cat": "SILVER",
+      "price": "202.49",
+      "status": "3"
+    },
+    "FMCN|100328|20260321|PREMIERE": {
+      "venue": "INOX National: Arcot Road",
+      "time": "06:00 PM",
+      "date": "20260321",
+      "cat": "PREMIERE",
+      "price": "59.43",
+      "status": "0"
+    },
+    "FMCN|100329|20260321|SILVER": {
+      "venue": "INOX National: Arcot Road",
+      "time": "10:45 PM",
+      "date": "20260321",
+      "cat": "SILVER",
+      "price": "202.49",
+      "status": "3"
+    },
+    "FMCN|100329|20260321|PREMIERE": {
+      "venue": "INOX National: Arcot Road",
+      "time": "10:45 PM",
+      "date": "20260321",
+      "cat": "PREMIERE",
+      "price": "59.43",
+      "status": "0"
+    },
     "PVTJ|7253|20260321|ELITE": {
       "venue": "PVR: Theyagaraja, Thiruvanmiyur, Chennai",
       "time": "06:00 PM",
@@ -331,6 +539,230 @@
     "PVTJ|7254|20260321|BUDGET": {
       "venue": "PVR: Theyagaraja, Thiruvanmiyur, Chennai",
       "time": "10:40 PM",
+      "date": "20260321",
+      "cat": "BUDGET",
+      "price": "59.43",
+      "status": "2"
+    },
+    "PVSR|22195|20260321|ELITE": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "09:20 AM",
+      "date": "20260321",
+      "cat": "ELITE",
+      "price": "202.49",
+      "status": "3"
+    },
+    "PVSR|22195|20260321|PREMIUM": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "09:20 AM",
+      "date": "20260321",
+      "cat": "PREMIUM",
+      "price": "190.00",
+      "status": "3"
+    },
+    "PVSR|22195|20260321|ECONOMY": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "09:20 AM",
+      "date": "20260321",
+      "cat": "ECONOMY",
+      "price": "180.00",
+      "status": "3"
+    },
+    "PVSR|22195|20260321|BUDGET": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "09:20 AM",
+      "date": "20260321",
+      "cat": "BUDGET",
+      "price": "59.43",
+      "status": "3"
+    },
+    "PVSR|22196|20260321|ELITE": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "06:00 PM",
+      "date": "20260321",
+      "cat": "ELITE",
+      "price": "202.49",
+      "status": "3"
+    },
+    "PVSR|22196|20260321|PREMIUM": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "06:00 PM",
+      "date": "20260321",
+      "cat": "PREMIUM",
+      "price": "190.00",
+      "status": "3"
+    },
+    "PVSR|22196|20260321|ECONOMY": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "06:00 PM",
+      "date": "20260321",
+      "cat": "ECONOMY",
+      "price": "180.00",
+      "status": "3"
+    },
+    "PVSR|22196|20260321|BUDGET": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "06:00 PM",
+      "date": "20260321",
+      "cat": "BUDGET",
+      "price": "59.43",
+      "status": "3"
+    },
+    "PVSR|22197|20260321|ELITE": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "10:45 PM",
+      "date": "20260321",
+      "cat": "ELITE",
+      "price": "202.49",
+      "status": "3"
+    },
+    "PVSR|22197|20260321|PREMIUM": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "10:45 PM",
+      "date": "20260321",
+      "cat": "PREMIUM",
+      "price": "190.00",
+      "status": "3"
+    },
+    "PVSR|22197|20260321|ECONOMY": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "10:45 PM",
+      "date": "20260321",
+      "cat": "ECONOMY",
+      "price": "180.00",
+      "status": "3"
+    },
+    "PVSR|22197|20260321|BUDGET": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "10:45 PM",
+      "date": "20260321",
+      "cat": "BUDGET",
+      "price": "59.43",
+      "status": "3"
+    },
+    "PVHC|24986|20260321|PRIME": {
+      "venue": "PVR: Ampa Mall, Nelson Manickam Road",
+      "time": "10:10 AM",
+      "date": "20260321",
+      "cat": "PRIME",
+      "price": "202.49",
+      "status": "2"
+    },
+    "PVHC|24986|20260321|CLASSIC": {
+      "venue": "PVR: Ampa Mall, Nelson Manickam Road",
+      "time": "10:10 AM",
+      "date": "20260321",
+      "cat": "CLASSIC",
+      "price": "59.43",
+      "status": "3"
+    },
+    "PVHC|24987|20260321|PRIME": {
+      "venue": "PVR: Ampa Mall, Nelson Manickam Road",
+      "time": "03:00 PM",
+      "date": "20260321",
+      "cat": "PRIME",
+      "price": "202.49",
+      "status": "2"
+    },
+    "PVHC|24987|20260321|CLASSIC": {
+      "venue": "PVR: Ampa Mall, Nelson Manickam Road",
+      "time": "03:00 PM",
+      "date": "20260321",
+      "cat": "CLASSIC",
+      "price": "59.43",
+      "status": "3"
+    },
+    "PVHC|24978|20260321|PRIME": {
+      "venue": "PVR: Ampa Mall, Nelson Manickam Road",
+      "time": "06:00 PM",
+      "date": "20260321",
+      "cat": "PRIME",
+      "price": "202.49",
+      "status": "2"
+    },
+    "PVHC|24978|20260321|CLASSIC": {
+      "venue": "PVR: Ampa Mall, Nelson Manickam Road",
+      "time": "06:00 PM",
+      "date": "20260321",
+      "cat": "CLASSIC",
+      "price": "59.43",
+      "status": "3"
+    },
+    "PVHC|24979|20260321|PRIME": {
+      "venue": "PVR: Ampa Mall, Nelson Manickam Road",
+      "time": "10:50 PM",
+      "date": "20260321",
+      "cat": "PRIME",
+      "price": "202.49",
+      "status": "2"
+    },
+    "PVHC|24979|20260321|CLASSIC": {
+      "venue": "PVR: Ampa Mall, Nelson Manickam Road",
+      "time": "10:50 PM",
+      "date": "20260321",
+      "cat": "CLASSIC",
+      "price": "59.43",
+      "status": "3"
+    },
+    "PBRM|19178|20260321|ELITE": {
+      "venue": "PVR: Perambur, Spectrum Mall",
+      "time": "10:15 AM",
+      "date": "20260321",
+      "cat": "ELITE",
+      "price": "202.49",
+      "status": "3"
+    },
+    "PBRM|19178|20260321|BUDGET": {
+      "venue": "PVR: Perambur, Spectrum Mall",
+      "time": "10:15 AM",
+      "date": "20260321",
+      "cat": "BUDGET",
+      "price": "59.43",
+      "status": "1"
+    },
+    "PBRM|19187|20260321|ELITE": {
+      "venue": "PVR: Perambur, Spectrum Mall",
+      "time": "02:50 PM",
+      "date": "20260321",
+      "cat": "ELITE",
+      "price": "202.49",
+      "status": "3"
+    },
+    "PBRM|19187|20260321|BUDGET": {
+      "venue": "PVR: Perambur, Spectrum Mall",
+      "time": "02:50 PM",
+      "date": "20260321",
+      "cat": "BUDGET",
+      "price": "59.43",
+      "status": "3"
+    },
+    "PBRM|19180|20260321|ELITE": {
+      "venue": "PVR: Perambur, Spectrum Mall",
+      "time": "06:10 PM",
+      "date": "20260321",
+      "cat": "ELITE",
+      "price": "202.49",
+      "status": "2"
+    },
+    "PBRM|19180|20260321|BUDGET": {
+      "venue": "PVR: Perambur, Spectrum Mall",
+      "time": "06:10 PM",
+      "date": "20260321",
+      "cat": "BUDGET",
+      "price": "59.43",
+      "status": "1"
+    },
+    "PBRM|19181|20260321|ELITE": {
+      "venue": "PVR: Perambur, Spectrum Mall",
+      "time": "11:00 PM",
+      "date": "20260321",
+      "cat": "ELITE",
+      "price": "202.49",
+      "status": "3"
+    },
+    "PBRM|19181|20260321|BUDGET": {
+      "venue": "PVR: Perambur, Spectrum Mall",
+      "time": "11:00 PM",
       "date": "20260321",
       "cat": "BUDGET",
       "price": "59.43",
