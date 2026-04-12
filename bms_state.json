@@ -7,22 +7,6 @@
       "cat": "GOLD",
       "price": "295.00",
       "status": "1"
-    },
-    "CVMU|599|20260412|PLATINUM SOFA": {
-      "venue": "Cineverse Multiplex: Uppal",
-      "time": "04:45 PM",
-      "date": "20260412",
-      "cat": "PLATINUM SOFA",
-      "price": "300.00",
-      "status": "3"
-    },
-    "CVMU|599|20260412|GOLD": {
-      "venue": "Cineverse Multiplex: Uppal",
-      "time": "04:45 PM",
-      "date": "20260412",
-      "cat": "GOLD",
-      "price": "200.00",
-      "status": "3"
     }
   },
   "dates": {
